@@ -1,0 +1,3946 @@
+if game.PlaceId == 8304191830 then
+    local Library = loadstring(game:HttpGet('https://raw.githubusercontent.com/VisualRoblox/Roblox/main/UI-Libraries/Visual%20UI%20Library/Source.lua'))()
+    local Window = Library:CreateWindow('Tempest Hub', 'Anime Adventures', 'Tempest Hub', '', false, 'Tempest Hub', 'Default')
+    
+        function ared1()
+            while getgenv().ared1 == true do
+                local ohString1 = "_lobbytemplate212"
+    
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(ohString1)                    
+                local ohString2 = "entertainment_district_level_1"
+                local ohBoolean3 = false
+                local ohString4 = "Hard"
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(ohString1, ohString2, ohBoolean3, ohString4)
+                local ohString1 = "_lobbytemplategreen211"
+
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(ohString1)
+            end
+        end
+    
+        function ared2()
+            while getgenv().ared2 == true do
+                local ohString1 = "_lobbytemplate212"
+    
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(ohString1)                    
+                local ohString2 = "entertainment_district_level_2"
+                local ohBoolean3 = false
+                local ohString4 = "Hard"
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(ohString1, ohString2, ohBoolean3, ohString4)
+                local ohString1 = "_lobbytemplategreen211"
+
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(ohString1)
+            end
+        end
+    
+        function ared3()
+            while getgenv().ared3 == true do
+                local ohString1 = "_lobbytemplate212"
+    
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(ohString1)                    
+                local ohString2 = "entertainment_district_level_3"
+                local ohBoolean3 = false
+                local ohString4 = "Hard"
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(ohString1, ohString2, ohBoolean3, ohString4)
+                local ohString1 = "_lobbytemplategreen211"
+
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(ohString1)
+            end
+        end
+    
+        function ared4()
+            while getgenv().ared4 == true do
+                local ohString1 = "_lobbytemplate212"
+    
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(ohString1)                    
+                local ohString2 = "entertainment_district_level_4"
+                local ohBoolean3 = false
+                local ohString4 = "Hard"
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(ohString1, ohString2, ohBoolean3, ohString4)
+                local ohString1 = "_lobbytemplategreen211"
+
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(ohString1)
+            end
+        end
+
+
+
+        function ared5()
+            while getgenv().ared5 == true do
+                local ohString1 = "_lobbytemplate212"
+    
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(ohString1)                    
+                local ohString2 = "entertainment_district_level_5"
+                local ohBoolean3 = false
+                local ohString4 = "Hard"
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(ohString1, ohString2, ohBoolean3, ohString4)
+                local ohString1 = "_lobbytemplategreen211"
+
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(ohString1)
+            end
+        end
+    
+        function ared6()
+            while getgenv().ared6 == true do
+                local ohString1 = "_lobbytemplate212"
+    
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(ohString1)                    
+                local ohString2 = "entertainment_district_level_6"
+                local ohBoolean3 = false
+                local ohString4 = "Hard"
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(ohString1, ohString2, ohBoolean3, ohString4)
+                local ohString1 = "_lobbytemplategreen211"
+
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(ohString1)
+            end
+        end
+    
+        function arwf1()
+            while getgenv().arwf1 == true do
+                local ohString1 = "_lobbytemplate212"
+    
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(ohString1)                    
+                local ohString1 = "_lobbytemplate212"
+                local ohString2 = "west_city_frieza_level_1"
+                local ohBoolean3 = false
+                local ohString4 = "Hard"
+    
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(ohString1, ohString2, ohBoolean3, ohString4)
+                local ohString1 = "_lobbytemplategreen211"
+
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(ohString1)
+            end
+        end
+    
+        function arwf2()
+            while getgenv().arwf2 == true do
+                local ohString1 = "_lobbytemplate212"
+    
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(ohString1)                    
+                local ohString1 = "_lobbytemplate212"
+                local ohString2 = "west_city_frieza_level_2"
+                local ohBoolean3 = false
+                local ohString4 = "Hard"
+    
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(ohString1, ohString2, ohBoolean3, ohString4)
+                local ohString1 = "_lobbytemplategreen211"
+
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(ohString1)
+            end
+        end
+    
+        function arwf3()
+            while getgenv().arwf3 == true do
+                local ohString1 = "_lobbytemplate212"
+    
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(ohString1)                    
+                local ohString1 = "_lobbytemplate212"
+                local ohString2 = "west_city_frieza_level_3"
+                local ohBoolean3 = false
+                local ohString4 = "Hard"
+    
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(ohString1, ohString2, ohBoolean3, ohString4)
+                local ohString1 = "_lobbytemplategreen211"
+
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(ohString1)
+            end
+        end
+    
+        function arwf4()
+            while getgenv().arwf4 == true do
+                local ohString1 = "_lobbytemplate212"
+    
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(ohString1)                    
+                local ohString1 = "_lobbytemplate212"
+                local ohString2 = "west_city_frieza_level_4"
+                local ohBoolean3 = false
+                local ohString4 = "Hard"
+    
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(ohString1, ohString2, ohBoolean3, ohString4)
+                local ohString1 = "_lobbytemplategreen211"
+
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(ohString1)
+            end
+        end
+    
+        function arwf5()
+            while getgenv().arwf5 == true do
+                local ohString1 = "_lobbytemplate212"
+    
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(ohString1)                    
+                local ohString1 = "_lobbytemplate212"
+                local ohString2 = "west_city_frieza_level_5"
+                local ohBoolean3 = false
+                local ohString4 = "Hard"
+    
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(ohString1, ohString2, ohBoolean3, ohString4)
+                local ohString1 = "_lobbytemplategreen211"
+
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(ohString1)
+            end
+        end
+    
+        function aru1()
+            while getgenv().aru1 == true do
+                local ohString1 = "_lobbytemplate212"
+    
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(ohString1)                    
+                local ohString1 = "_lobbytemplate212"
+                local ohString2 = "uchiha_level_1"
+                local ohBoolean3 = false
+                local ohString4 = "Hard"
+    
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(ohString1, ohString2, ohBoolean3, ohString4)
+                local ohString1 = "_lobbytemplategreen211"
+
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(ohString1)
+            end
+        end
+    
+        function aru2()
+            while getgenv().aru2 == true do
+                local ohString1 = "_lobbytemplate212"
+    
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(ohString1)                    
+                local ohString1 = "_lobbytemplate212"
+                local ohString2 = "uchiha_level_2"
+                local ohBoolean3 = false
+                local ohString4 = "Hard"
+    
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(ohString1, ohString2, ohBoolean3, ohString4)
+                local ohString1 = "_lobbytemplategreen211"
+
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(ohString1)
+            end
+        end
+    
+        function aru3()
+            while getgenv().aru3 == true do
+                local ohString1 = "_lobbytemplate212"
+    
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(ohString1)                    
+                local ohString1 = "_lobbytemplate212"
+                local ohString2 = "uchiha_level_3"
+                local ohBoolean3 = false
+                local ohString4 = "Hard"
+    
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(ohString1, ohString2, ohBoolean3, ohString4)
+                local ohString1 = "_lobbytemplategreen211"
+
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(ohString1)
+            end
+        end
+    
+        function aru4()
+            while getgenv().aru4 == true do
+                local ohString1 = "_lobbytemplate212"
+    
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(ohString1)                    
+                local ohString1 = "_lobbytemplate212"
+                local ohString2 = "uchiha_level_4"
+                local ohBoolean3 = false
+                local ohString4 = "Hard"
+    
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(ohString1, ohString2, ohBoolean3, ohString4)
+                local ohString1 = "_lobbytemplategreen211"
+
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(ohString1)
+            end
+        end
+    
+        function aru5()
+            while getgenv().aru5 == true do
+                local ohString1 = "_lobbytemplate212"
+    
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(ohString1)                    
+                local ohString1 = "_lobbytemplate212"
+                local ohString2 = "uchiha_level_5"
+                local ohBoolean3 = false
+                local ohString4 = "Hard"
+    
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(ohString1, ohString2, ohBoolean3, ohString4)
+                local ohString1 = "_lobbytemplategreen211"
+
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(ohString1)
+            end
+        end
+
+    
+        function arit()
+            while getgenv().arit == true do
+                local ohString1 = "_lobbytemplate212"
+    
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(ohString1)     
+                local ohString1 = "_lobbytemplate212"
+                local ohString2 = "demonslayer_raid_1"
+                local ohBoolean3 = false
+                local ohString4 = "Hard"
+    
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(ohString1, ohString2, ohBoolean3, ohString4)   
+                local ohString1 = "_lobbytemplategreen211"
+
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(ohString1)            
+            end
+        end
+    
+        function arS()
+            while getgenv().arS == true do
+                local ohString1 = "_lobbytemplate212"
+    
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(ohString1)                    
+                local ohString1 = "_lobbytemplate212"
+                local ohString2 = "aot_raid_1"
+                local ohBoolean3 = false
+                local ohString4 = "Hard"
+    
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(ohString1, ohString2, ohBoolean3, ohString4)
+                local ohString1 = "_lobbytemplategreen211"
+
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(ohString1)
+            end
+        end
+    
+        function arN()
+            while getgenv().arN == true do
+                local ohString1 = "_lobbytemplate212"
+    
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(ohString1)                    
+                local ohString1 = "_lobbytemplate212"
+                local ohString2 = "naruto_raid_1"
+                local ohBoolean3 = false
+                local ohString4 = "Hard"
+    
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(ohString1, ohString2, ohBoolean3, ohString4)
+                local ohString1 = "_lobbytemplategreen211"
+
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(ohString1)
+            end
+        end
+
+
+        function armhas()
+            while getgenv().armhas == true do
+                local ohString1 = "_lobbytemplate212"
+    
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(ohString1)                    
+                local ohString1 = "_lobbytemplate212"
+                local ohString2 = "mha_stain"
+                local ohBoolean3 = false
+                local ohString4 = "Hard"
+
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(ohString1, ohString2, ohBoolean3, ohString4)
+                local ohString1 = "_lobbytemplategreen211"
+
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(ohString1)
+            end
+        end
+
+
+        function arms()
+            while getgenv().arms == true do
+                local ohString1 = "_lobbytemplate212"
+    
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(ohString1)                    
+                local ohString1 = "_lobbytemplate212"
+                local ohString2 = "marineford_sengoku"
+                local ohBoolean3 = false
+                local ohString4 = "Hard"
+
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(ohString1, ohString2, ohBoolean3, ohString4)
+                local ohString1 = "_lobbytemplategreen211"
+
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(ohString1)
+            end
+        end
+
+    
+        function dgA()
+            while getgenv().dgA == true do
+                local ohString1 = "_lobbytemplate_event322"
+    
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(ohString1)
+                local ohString1 = "_lobbytemplategreen322"
+
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(ohString1)
+            end
+        end
+    
+        function dgA()
+            while getgenv().dgCW == true do
+                local ohString1 = "_lobbytemplate_event221"
+    
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(ohString1)
+                local ohString1 = "_lobbytemplategreen221"
+
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(ohString1)
+            end
+        end
+    
+    
+        function dgA()
+            while getgenv().dgCP == true do
+                local ohString1 = "_lobbytemplate_event22"
+    
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(ohString1)
+                local ohString1 = "_lobbytemplategreen22"
+
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(ohString1)
+            end
+        end
+    
+        function autoSummon()
+            while getgenv().autoSummon == true do
+                local ohString1 = "EventClover"
+                local ohString2 = "gems10"
+    
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.buy_from_banner:InvokeServer(ohString1, ohString2)
+            end
+        end
+
+
+        function autoSummon1()
+            while getgenv().autoSummon1 == true do
+                local ohString1 = "EventClover"
+                local ohString2 = "gems"
+
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.buy_from_banner:InvokeServer(ohString1, ohString2)
+            end
+        end
+
+
+        function autoreplay()
+            while getgenv().autoreplay == true do
+                local ohString1 = "replay"
+
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.set_game_finished_vote:InvokeServer(ohString1)
+            end
+        end
+
+
+        function autoleave()
+            while getgenv().autoleave == true do
+                local ohString1 = "replay"
+
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.set_game_finished_vote:InvokeServer(ohString1)
+            end
+        end
+
+
+        function autosummonTicket()
+            while getgenv().autosummonTicket == true do
+                local ohString1 = "EventClover"
+                local ohString2 = "ticket"
+        
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.buy_from_banner:InvokeServer(ohString1, ohString2)
+            end
+        end
+
+
+        function autobuycapsuleSummer1()
+            while getgenv().autobuycapsuleSummer1 == true do
+                local args = {
+                    [1] = "capsule_summer",
+                    [2] = "event",
+                    [3] = "event_shop",
+                    [4] = "1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.buy_item_generic:InvokeServer(unpack(args))
+            end
+        end
+
+        function autobuycapsuleSummer10()
+            while getgenv().autobuycapsuleSummer10 == true do
+                local args = {
+                    [1] = "capsule_summer",
+                    [2] = "event",
+                    [3] = "event_shop",
+                    [4] = "10"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.buy_item_generic:InvokeServer(unpack(args))
+            end
+        end
+
+        function autobuycapsuleSummer100()
+            while getgenv().autobuycapsuleSummer100 == true do
+                local args = {
+                    [1] = "capsule_summer",
+                    [2] = "event",
+                    [3] = "event_shop",
+                    [4] = "100"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.buy_item_generic:InvokeServer(unpack(args))
+            end
+        end
+
+
+        function autoopencapsuleSummer1()
+            while getgenv().autoopencapsuleSummer1 == true do
+                local args = {
+                    [1] = "capsule_summer",
+                    [2] = {
+                        ["use10"] = false
+                    }
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.use_item:InvokeServer(unpack(args))        
+            end
+        end
+
+        function autoopencapsuleSummer10()
+            while getgenv().autoopencapsuleSummer10 == true do
+                local args = {
+                    [1] = "capsule_summer",
+                    [2] = {
+                        ["use10"] = true
+                    }
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.use_item:InvokeServer(unpack(args))                         
+            end
+        end
+
+        function namek1()
+            while getgenv().namek1 == true do
+local args = {
+    [1] = "_lobbytemplategreen1"
+}
+
+game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+
+local args = {
+    [1] = "_lobbytemplategreen1",
+    [2] = "namek_level_1",
+    [3] = false,
+    [4] = "Normal"
+}
+
+game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+wait(1)
+local args = {
+    [1] = "_lobbytemplategreen1"
+}
+
+game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+
+        
+        function namek2()
+            while getgenv().namek2 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                
+                local args = {
+                    [1] = "_lobbytemplategreen1",
+                    [2] = "namek_level_2",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+
+        
+        function namek3()
+            while getgenv().namek3 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                
+                local args = {
+                    [1] = "_lobbytemplategreen1",
+                    [2] = "namek_level_3",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+        
+        function namek4()
+            while getgenv().namek4 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                
+                local args = {
+                    [1] = "_lobbytemplategreen1",
+                    [2] = "namek_level_4",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+
+
+        
+        function namek5()
+            while getgenv().namek5 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                
+                local args = {
+                    [1] = "_lobbytemplategreen1",
+                    [2] = "namek_level_5",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+        
+        function namek6()
+            while getgenv().namek6 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                
+                local args = {
+                    [1] = "_lobbytemplategreen1",
+                    [2] = "namek_level_6",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+        
+        function aot1()
+            while getgenv().aot1 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen1",
+                    [2] = "aot_level_1",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+        
+        function aot2()
+            while getgenv().aot2 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen1",
+                    [2] = "aot_level_2",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+        
+        function aot3()
+            while getgenv().aot3 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen1",
+                    [2] = "aot_level_3",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+        
+        function aot4()
+            while getgenv().aot4 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen1",
+                    [2] = "aot_level_4",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+        
+        function aot5()
+            while getgenv().aot5 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen1",
+                    [2] = "aot_level_5",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+
+        
+        function aot6()
+            while getgenv().aot6 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen1",
+                    [2] = "aot_level_6",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+        
+        function kimetsu1()
+            while getgenv().kimetsu1 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen7"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen7",
+                    [2] = "demonslayer_level_1",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+        
+        function kimetsu2()
+            while getgenv().kimetsu2 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen7"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen7",
+                    [2] = "demonslayer_level_2",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+        
+        function kimetsu3()
+            while getgenv().kimetsu3 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen7"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen7",
+                    [2] = "demonslayer_level_3",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+
+
+        
+        function kimetsu4()
+            while getgenv().kimetsu4 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen7"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen7",
+                    [2] = "demonslayer_level_4",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+        
+        function kimetsu5()
+            while getgenv().kimetsu5 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen7"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen7",
+                    [2] = "demonslayer_level_5",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+        
+        function kimetsu6()
+            while getgenv().kimetsu6 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen7"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen7",
+                    [2] = "demonslayer_level_6",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+        
+        function naruto1()
+            while getgenv().naruto1 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen7"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen7",
+                    [2] = "naruto_level_1",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+        
+        function naruto2()
+            while getgenv().naruto2 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen7"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen7",
+                    [2] = "naruto_level_2",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+
+
+        
+        function naruto3()
+            while getgenv().naruto3 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen7"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen7",
+                    [2] = "naruto_level_3",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+        
+        function naruto4()
+            while getgenv().naruto4 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen7"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen7",
+                    [2] = "naruto_level_4",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+        
+        function naruto5()
+            while getgenv().naruto5 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen7"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen7",
+                    [2] = "naruto_level_5",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+
+
+        
+        function naruto6()
+            while getgenv().naruto6 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen7"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen7",
+                    [2] = "naruto_level_6",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+        
+        function marineford1()
+            while getgenv().marineford1 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen7"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen7",
+                    [2] = "marineford_level_1",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+        
+        function marineford2()
+            while getgenv().marineford2 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen7"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen7",
+                    [2] = "marineford_level_2",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+        
+        function marineford3()
+            while getgenv().marineford3 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen7"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen7",
+                    [2] = "marineford_level_3",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+        
+        function marineford4()
+            while getgenv().marineford4 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen7"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen7",
+                    [2] = "marineford_level_4",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+        
+        function marineford5()
+            while getgenv().marineford5 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen7"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen7",
+                    [2] = "marineford_level_5",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+        
+        function marineford6()
+            while getgenv().marineford6 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen7"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen7",
+                    [2] = "marineford_level_6",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+        
+        function tokyoghoul1()
+            while getgenv().tokyoghoul1 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen7"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen7",
+                    [2] = "tokyoghoul_level_1",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+        
+        function tokyoghoul2()
+            while getgenv().tokyoghoul2 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen7"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen7",
+                    [2] = "tokyoghoul_level_2",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+        
+        function tokyoghoul3()
+            while getgenv().tokyoghoul3 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen7"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen7",
+                    [2] = "tokyoghoul_level_3",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args)) 
+            end
+        end
+
+        function tokyoghoul4()
+            while getgenv().tokyoghoul4 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen7"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen7",
+                    [2] = "tokyoghoul_level_4",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+
+        function tokyoghoul5()
+            while getgenv().tokyoghoul5 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen7"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen7",
+                    [2] = "tokyoghoul_level_5",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+
+        function tokyoghoul6()
+            while getgenv().tokyoghoul6 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen7"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen7",
+                    [2] = "tokyoghoul_level_6",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+
+        function bleach1()
+            while getgenv().bleach1 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen7"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen7",
+                    [2] = "hueco_level_1",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+
+        function bleach2()
+            while getgenv().bleach2 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen7"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen7",
+                    [2] = "hueco_level_2",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args)) 
+            end
+        end
+
+        function bleach3()
+            while getgenv().bleach3 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen7"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen7",
+                    [2] = "hueco_level_3",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+
+        function bleach4()
+            while getgenv().bleach4 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen7"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen7",
+                    [2] = "hueco_level_4",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+
+        function bleach5()
+            while getgenv().bleach5 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen7"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen7",
+                    [2] = "hueco_level_5",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+
+        function bleach6()
+            while getgenv().bleach6 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen7"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen7",
+                    [2] = "hueco_level_6",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+
+        function hxh1()
+            while getgenv().hxh1 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen7"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen7",
+                    [2] = "hxhant_level_1",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+
+        function hxh2()
+            while getgenv().hxh2 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen7"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen7",
+                    [2] = "hxhant_level_2",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+
+        function hxh3()
+            while getgenv().hxh3 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen7"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen7",
+                    [2] = "hxhant_level_3",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+
+        function hxh4()
+            while getgenv().hxh4 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen7"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen7",
+                    [2] = "hxhant_level_4",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+
+        function hxh5()
+            while getgenv().hxh5 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen7"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen7",
+                    [2] = "hxhant_level_5",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+
+        function hxh6()
+            while getgenv().hxh6 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen7"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen7",
+                    [2] = "hxhant_level_6",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args)) 
+            end
+        end
+
+        function fairy1()
+            while getgenv().fairy1 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen7"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen7",
+                    [2] = "magnolia_level_1",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+
+        function fairy2()
+            while getgenv().fairy2 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen7"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen7",
+                    [2] = "magnolia_level_2",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+ 
+        function fairy3()
+            while getgenv().fairy3 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen7"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen7",
+                    [2] = "magnolia_level_3",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+
+        function fairy4()
+            while getgenv().fairy4 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen7"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen7",
+                    [2] = "magnolia_level_4",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+
+        function fairy5()
+            while getgenv().fairy5 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen7"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen7",
+                    [2] = "magnolia_level_5",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+
+        function fairy6()
+            while getgenv().fairy6 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen7"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen7",
+                    [2] = "magnolia_level_6",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+
+        function jjk1()
+            while getgenv().jjk1 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen7"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen7",
+                    [2] = "jjk_level_1",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+
+        function jjk2()
+            while getgenv().jjk2 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen7"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen7",
+                    [2] = "jjk_level_2",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+
+        function jjk3()
+            while getgenv().jjk3 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen7"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen7",
+                    [2] = "jjk_level_3",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args)) 
+            end
+        end
+
+        function jjk4()
+            while getgenv().jjk4 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen7"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen7",
+                    [2] = "jjk_level_4",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+
+        function jjk5()
+            while getgenv().jjk5 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen7"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen7",
+                    [2] = "jjk_level_5",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+
+        function jjk6()
+            while getgenv().jjk6 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen7"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen7",
+                    [2] = "jjk_level_6",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+
+        function clover1()
+            while getgenv().clover1 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen7"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen7",
+                    [2] = "clover_level_1",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+
+        function clover2()
+            while getgenv().clover2 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen7"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen7",
+                    [2] = "clover_level_2",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))   
+            end
+        end
+
+        function clover3()
+            while getgenv().clover3 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen7"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen7",
+                    [2] = "clover_level_3",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+
+        function clover4()
+            while getgenv().clover4 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen7"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen7",
+                    [2] = "clover_level_4",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+
+        function clover5()
+            while getgenv().clover5 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen7"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen7",
+                    [2] = "clover_level_5",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+
+        function clover6()
+            while getgenv().clover6 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen7"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen7",
+                    [2] = "clover_level_6",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+
+        function jojo1()
+            while getgenv().jojo1 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen8"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen8",
+                    [2] = "jojo_level_1",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+
+        function jojo2()
+            while getgenv().jojo2 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen8"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen8",
+                    [2] = "jojo_level_2",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+
+        function jojo3()
+            while getgenv().jojo3 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen8"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen8",
+                    [2] = "jojo_level_3",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+
+        function jojo4()
+            while getgenv().jojo4 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen8"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen8",
+                    [2] = "jojo_level_4",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+
+        function jojo5()
+            while getgenv().jojo5 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen8"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen8",
+                    [2] = "jojo_level_5",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+
+        function jojo6()
+            while getgenv().jojo6 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen8"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen8",
+                    [2] = "jojo_level_6",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+
+        function opm1()
+            while getgenv().opm1 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen8"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen8",
+                    [2] = "opm_level_1",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+
+        function opm2()
+            while getgenv().opm2 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen8"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen8",
+                    [2] = "opm_level_2",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+
+        function opm3()
+            while getgenv().opm3 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen8"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen8",
+                    [2] = "opm_level_3",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+
+        function opm4()
+            while getgenv().opm4 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen8"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen8",
+                    [2] = "opm_level_4",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+
+        function opm5()
+            while getgenv().opm5 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen8"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen8",
+                    [2] = "opm_level_5",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+
+        function opm6()
+            while getgenv().opm6 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen8"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen8",
+                    [2] = "opm_level_6",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+
+        function sds1()
+            while getgenv().sds1 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen8"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen8",
+                    [2] = "7ds_level_1",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+
+        function sds2()
+            while getgenv().sds2 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen8"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen8",
+                    [2] = "7ds_level_2",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args)) 
+            end
+        end
+
+        function sds3()
+            while getgenv().sds3 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen8"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen8",
+                    [2] = "7ds_level_3",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args)) 
+            end
+        end
+
+        function sds4()
+            while getgenv().sds4 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen8"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen8",
+                    [2] = "7ds_level_4",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+        
+        function sds5()
+            while getgenv().sds5 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen8"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen8",
+                    [2] = "7ds_level_5",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+        
+        function sds6()
+            while getgenv().sds6 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen8"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen8",
+                    [2] = "7ds_level_6",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+
+        function mha1()
+            while getgenv().mha1 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen8"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen8",
+                    [2] = "mha_level_1",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+
+        function mha2()
+            while getgenv().mha2 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen8"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen8",
+                    [2] = "mha_level_2",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+
+        function mha3()
+            while getgenv().mha3 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen8"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen8",
+                    [2] = "mha_level_3",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+
+        function mha4()
+            while getgenv().mha4 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen8"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen8",
+                    [2] = "mha_level_4",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+
+        function mha5()
+            while getgenv().mha5 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen8"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen8",
+                    [2] = "mha_level_5",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+
+        function mha6()
+            while getgenv().mha6 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen8"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen8",
+                    [2] = "mha_level_6",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+
+        function dressrosa1()
+            while getgenv().dressrosa1 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen2"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen2",
+                    [2] = "dressrosa_level_1",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+
+        function dressrosa2()
+            while getgenv().dressrosa2 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen2"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen2",
+                    [2] = "dressrosa_level_2",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+
+        function dressrosa3()
+            while getgenv().dressrosa3 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen2"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen2",
+                    [2] = "dressrosa_level_3",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+
+        function dressrosa4()
+            while getgenv().dressrosa4 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen2"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen2",
+                    [2] = "dressrosa_level_4",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+
+        function dressrosa5()
+            while getgenv().dressrosa5 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen2"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen2",
+                    [2] = "dressrosa_level_5",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+
+        function dressrosa6()
+            while getgenv().dressrosa6 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen2"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen2",
+                    [2] = "dressrosa_level_6",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args)) 
+            end
+        end
+
+        function sao1()
+            while getgenv().sao1 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen2"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen2",
+                    [2] = "sao_level_1",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args)) 
+            end
+        end
+
+        function sao2()
+            while getgenv().sao2 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen2"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen2",
+                    [2] = "sao_level_2",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args)) 
+            end
+        end
+
+        function sao3()
+            while getgenv().sao3 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen2"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen2",
+                    [2] = "sao_level_3",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args)) 
+            end
+        end
+
+        function sao4()
+            while getgenv().sao4 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen2"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen2",
+                    [2] = "sao_level_4",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+
+        function sao5()
+            while getgenv().sao5 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen2"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen2",
+                    [2] = "sao_level_5",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args)) 
+            end
+        end
+
+        function sao6()
+            while getgenv().sao6 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen2"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen2",
+                    [2] = "sao_level_6",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args)) 
+            end
+        end
+
+        function berserk1()
+            while getgenv().berserk1 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen2"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen2",
+                    [2] = "berserk_level_1",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))  
+            end
+        end
+
+        function berserk2()
+            while getgenv().berserk2 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen2"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen2",
+                    [2] = "berserk_level_2",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args)) 
+            end
+        end
+
+        function berserk3()
+            while getgenv().berserk3 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen2"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen2",
+                    [2] = "berserk_level_3",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+
+        function berserk4()
+            while getgenv().berserk4 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen2"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen2",
+                    [2] = "berserk_level_4",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+
+        function berserk5()
+            while getgenv().berserk5 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen2"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen2",
+                    [2] = "berserk_level_5",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+
+        function berserk6()
+            while getgenv().berserk6 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen2"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen2",
+                    [2] = "berserk_level_6",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+
+        function overlord1()
+            while getgenv().overlord1 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen2"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen2",
+                    [2] = "overlord_level_1",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+
+        function overlord2()
+            while getgenv().overlord2 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen2"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen2",
+                    [2] = "overlord_level_2",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))
+            end
+        end
+
+        function overlord3()
+            while getgenv().overlord3 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen2"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen2",
+                    [2] = "overlord_level_3",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))   
+            end
+        end
+
+        function overlord4()
+            while getgenv().overlord4 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen2"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen2",
+                    [2] = "overlord_level_4",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))    
+            end
+        end
+
+        function overlord5()
+            while getgenv().overlord5 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen2"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen2",
+                    [2] = "overlord_level_5",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))  
+            end
+        end
+
+        function overlord6()
+            while getgenv().overlord6 == true do
+                local args = {
+                    [1] = "_lobbytemplategreen2"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_join_lobby:InvokeServer(unpack(args))
+                local args = {
+                    [1] = "_lobbytemplategreen2",
+                    [2] = "overlord_level_6",
+                    [3] = false,
+                    [4] = "Normal"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_lock_level:InvokeServer(unpack(args))
+                wait(1)
+                local args = {
+                    [1] = "_lobbytemplategreen1"
+                }
+                
+                game:GetService("ReplicatedStorage").endpoints.client_to_server.request_start_game:InvokeServer(unpack(args))   
+            end
+        end
+
+        function autoclaimbp()
+            while getgenv().autoclaimbp == true do
+                    
+            end
+        end
+
+        function autoGQOverlord()
+            while getgenv().autoGQOverlord == true do
+                    
+            end
+        end
+
+
+        
+    
+        local Tab = Window:CreateTab('Main', true, 'rbxassetid://3926305904', Vector2.new(484, 44), Vector2.new(36, 36))
+    local Section = Tab:CreateSection('Name')
+
+        local Toggle = Section:CreateToggle('Hide Name', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().deleteinfplayer = Value -- Atualiza o estado do toggle
+            if Value then
+                deleteinfplayer() -- Chama a função se o toggle estiver ativado
+            end
+        end)
+        
+        function deleteinfplayer()
+            while getgenv().deleteinfplayer do
+                local player = game.Players.LocalPlayer
+                if not player then
+                    return
+                end
+        
+                local head = player.Character and player.Character:FindFirstChild("Head")
+                if not head then
+                    return
+                end
+        
+                local overhead = head:FindFirstChild("_overhead")
+                if not overhead then
+                    return
+                end
+        
+                local frame = overhead:FindFirstChild("Frame")
+                if not frame then
+                    return
+                end
+        
+                frame:Destroy()
+                
+                wait(0.1) -- Adiciona um pequeno atraso entre as exclusões para evitar bloqueios
+            end
+        end
+
+        local Tab = Window:CreateTab('Raid', false, 'rbxassetid://3926305904', Vector2.new(484, 44), Vector2.new(36, 36))
+    
+        local Section = Tab:CreateSection('Entertainment District')
+    
+        local Toggle = Section:CreateToggle('Auto Raid Entertainment District 1', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().ared1 = Value
+            ared1()
+        end)
+    
+        local Toggle = Section:CreateToggle('Auto Raid Entertainment District 2', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().ared2 = Value
+            ared2()
+        end)
+    
+        local Toggle = Section:CreateToggle('Auto Raid Entertainment District 3', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().ared3 = Value
+            ared3()
+        end)
+    
+        local Toggle = Section:CreateToggle('Auto Raid Entertainment District 4', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().ared4 = Value
+            ared4()
+        end)
+    
+        local Toggle = Section:CreateToggle('Auto Raid Entertainment District 5', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().ared5 = Value
+            ared5()
+        end)
+    
+        local Toggle = Section:CreateToggle('Auto Raid Entertainment District 6', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().ared6 = Value
+            ared6()
+        end)
+    
+        local Section = Tab:CreateSection('West City')
+        
+        local Toggle = Section:CreateToggle('Auto Raid West City(Freeza Invasion) 1', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().arwf1 = Value
+            arwf1()
+        end)
+    
+        local Toggle = Section:CreateToggle('Auto Raid West City(Freeza Invasion) 2', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().arwf2 = Value
+            arwf2()
+        end)
+    
+        local Toggle = Section:CreateToggle('Auto Raid West City(Freeza Invasion) 3', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().arwf3 = Value
+            arwf3()
+        end)
+    
+        local Toggle = Section:CreateToggle('Auto Raid West City(Freeza Invasion) 4', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().arwf4 = Value
+            arwf4()
+        end)
+    
+        local Toggle = Section:CreateToggle('Auto Raid West City(Freeza Invasion) 5', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().arwf5 = Value
+            arwf5()
+        end)
+    
+        local Section = Tab:CreateSection('Uchiha')
+    
+        local Toggle = Section:CreateToggle('Auto Raid Uchiha 1', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().aru1 = Value
+            aru1()
+        end)
+    
+        local Toggle = Section:CreateToggle('Auto Raid Uchiha 2', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().aru2 = Value
+            aru2()
+        end)
+    
+        local Toggle = Section:CreateToggle('Auto Raid Uchiha 3', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().aru3 = Value
+            aru3()
+        end)
+    
+        local Toggle = Section:CreateToggle('Auto Raid Uchiha 4', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().aru4 = Value
+            aru4()
+        end)
+    
+        local Toggle = Section:CreateToggle('Auto Raid Uchiha 5', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().aru5 = Value
+            aru5()
+        end)
+    
+        local Section = Tab:CreateSection('Alterantive Raids')
+    
+        local Toggle = Section:CreateToggle('Auto Raid West City', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().arw = Value
+            arw()
+        end)
+    
+        local Toggle = Section:CreateToggle('Auto Raid Infinity Train', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().arit = Value
+            arit()
+        end)
+    
+        local Toggle = Section:CreateToggle('Auto Raid Shingeki', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().arS = Value
+            arS()
+        end)
+    
+        local Toggle = Section:CreateToggle('Auto Raid Naruto', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().arN = Value
+            arN()
+        end)
+
+        local Toggle = Section:CreateToggle('Auto Raid Stain', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().armhas = Value
+            armhas()
+        end)
+
+        local Toggle = Section:CreateToggle('Auto Raid Marineford', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().arms = Value
+            arms()
+        end)
+    
+        local Tab = Window:CreateTab('Dungeon', false, 'rbxassetid://3926305904', Vector2.new(484, 44), Vector2.new(36, 36))
+    
+        local Section = Tab:CreateSection('Dungeon')
+    
+        local Toggle = Section:CreateToggle('Auto Dungeon Anniversary', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().dgA = Value
+            dgA()
+        end)
+    
+        local Toggle = Section:CreateToggle('Auto Dungeon Cursed Womb', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().dgCW = Value
+            dgCW()
+        end)
+    
+        local Toggle = Section:CreateToggle('Auto Dungeon Cursed Parade', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().dgCP = Value
+            dgCP()
+        end)
+
+
+        local Tab = Window:CreateTab('Story', false, 'rbxassetid://3926305904', Vector2.new(484, 44), Vector2.new(36, 36))
+    
+        local Section = Tab:CreateSection('Namek')
+
+        local Toggle = Section:CreateToggle('Auto Namek (Stage 1)', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().namek1 = Value
+            namek1()
+        end)
+
+        local Toggle = Section:CreateToggle('Auto Namek (Stage 2)', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().namek2 = Value
+            namek2()
+        end)
+
+        local Toggle = Section:CreateToggle('Auto Namek (Stage 3)', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().namek3 = Value
+            namek3()
+        end)
+
+        local Toggle = Section:CreateToggle('Auto Namek (Stage 4)', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().namek4 = Value
+            namek4()
+        end)
+
+        local Toggle = Section:CreateToggle('Auto Namek (Stage 5)', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().namek5 = Value
+            namek5()
+        end)
+
+        local Toggle = Section:CreateToggle('Auto Namek (Stage 6)', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().namek6 = Value
+            namek6()
+        end)
+
+        local Section = Tab:CreateSection('Shingeki')
+
+        local Toggle = Section:CreateToggle('Auto Shingeki (Stage 1)', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().aot1 = Value
+            aot1()
+        end)
+
+        local Toggle = Section:CreateToggle('Auto Shingeki (Stage 2)', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().aot2 = Value
+            aot2()
+        end)
+
+        local Toggle = Section:CreateToggle('Auto Shingeki (Stage 3)', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().aot3 = Value
+            aot3()
+        end)
+
+        local Toggle = Section:CreateToggle('Auto Shingeki (Stage 4)', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().aot4 = Value
+            aot4()
+        end)
+
+        local Toggle = Section:CreateToggle('Auto Shingeki (Stage 5)', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().aot5 = Value
+            aot5()
+        end)
+
+        local Toggle = Section:CreateToggle('Auto Shingeki (Stage 6)', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().aot6 = Value
+            aot6()
+        end)
+
+
+        local Section = Tab:CreateSection('Naruto')
+
+        local Toggle = Section:CreateToggle('Auto Naruto (Stage 1)', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().naruto1 = Value
+            naruto1()
+        end)
+
+
+        local Toggle = Section:CreateToggle('Auto Naruto (Stage 2)', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().naruto2 = Value
+            naruto2()
+        end)
+
+
+        local Toggle = Section:CreateToggle('Auto Naruto (Stage 3)', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().naruto3 = Value
+            naruto3()
+        end)
+
+        local Toggle = Section:CreateToggle('Auto Naruto (Stage 4)', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().naruto4 = Value
+            naruto4()
+        end)
+
+
+        local Toggle = Section:CreateToggle('Auto Naruto (Stage 5)', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().naruto5 = Value
+            naruto5()
+        end)
+
+
+        local Toggle = Section:CreateToggle('Auto Naruto (Stage 6)', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().naruto6 = Value
+            naruto6()
+        end)
+
+
+        local Section = Tab:CreateSection('Marine Ford')
+
+        local Toggle = Section:CreateToggle('Auto Marine Ford (Stage 1)', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().marineford1 = Value
+            marineford1()
+        end)
+
+
+        local Toggle = Section:CreateToggle('Auto Marine Ford (Stage 2)', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().marineford2 = Value
+            marineford2()
+        end)
+
+
+        local Toggle = Section:CreateToggle('Auto Marine Ford (Stage 3)', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().marineford3 = Value
+            marineford3()
+        end)
+
+        local Toggle = Section:CreateToggle('Auto Marine Ford (Stage 4)', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().marineford4 = Value
+            marineford4()
+        end)
+
+
+        local Toggle = Section:CreateToggle('Auto Marine Ford (Stage 5)', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().marineford5 = Value
+            marineford5()
+        end)
+
+
+        local Toggle = Section:CreateToggle('Auto Marine Ford (Stage 6)', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().marineford6 = Value
+            marineford6()
+        end)
+
+
+        local Section = Tab:CreateSection('Tokyo Ghoul')
+
+        local Toggle = Section:CreateToggle('Auto Tokyo Ghoul (Stage 1)', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().tokyoghoul1 = Value
+            tokyoghoul1()
+        end)
+
+
+        local Toggle = Section:CreateToggle('Auto Tokyo Ghoul (Stage 2)', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().tokyoghoul2 = Value
+            tokyoghoul2()
+        end)
+
+
+        local Toggle = Section:CreateToggle('Auto Tokyo Ghoul (Stage 3)', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().tokyoghoul3 = Value
+            tokyoghoul3()
+        end)
+
+        local Toggle = Section:CreateToggle('Auto Tokyo Ghoul (Stage 4)', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().tokyoghoul4 = Value
+            tokyoghoul4()
+        end)
+
+
+        local Toggle = Section:CreateToggle('Auto Tokyo Ghoul (Stage 5)', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().tokyoghoul5 = Value
+            tokyoghoul5()
+        end)
+
+
+        local Toggle = Section:CreateToggle('Auto Tokyo Ghoul (Stage 6)', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().tokyoghoul6 = Value
+            tokyoghoul6()
+        end)
+
+
+        local Section = Tab:CreateSection('Bleach')
+
+        local Toggle = Section:CreateToggle('Auto Bleach (Stage 1)', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().bleach1 = Value
+            bleach1()
+        end)
+
+
+        local Toggle = Section:CreateToggle('Auto Bleach (Stage 2)', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().bleach2 = Value
+            bleach2()
+        end)
+
+
+        local Toggle = Section:CreateToggle('Auto Bleach (Stage 3)', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().bleach3 = Value
+            bleach3()
+        end)
+
+        local Toggle = Section:CreateToggle('Auto Bleach (Stage 4)', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().bleach4 = Value
+            bleach4()
+        end)
+
+
+        local Toggle = Section:CreateToggle('Auto Bleach (Stage 5)', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().bleach5 = Value
+            bleach5()
+        end)
+
+
+        local Toggle = Section:CreateToggle('Auto Bleach (Stage 6)', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().bleach6 = Value
+            bleach6()
+        end)
+
+
+        local Section = Tab:CreateSection('Hunter X Hunter')
+
+        local Toggle = Section:CreateToggle('Auto Hunter X Hunter (Stage 1)', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().hxh1 = Value
+            hxh1()
+        end)
+
+
+        local Toggle = Section:CreateToggle('Auto Hunter X Hunter (Stage 2)', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().hxh2 = Value
+            hxh2()
+        end)
+
+
+        local Toggle = Section:CreateToggle('Auto Hunter X Hunter (Stage 3)', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().hxh3 = Value
+            hxh3()
+        end)
+
+        local Toggle = Section:CreateToggle('Auto Hunter X Hunter (Stage 4)', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().hxh4 = Value
+            hxh4()
+        end)
+
+
+        local Toggle = Section:CreateToggle('Auto Hunter X Hunter (Stage 5)', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().hxh5 = Value
+            hxh5()
+        end)
+
+
+        local Toggle = Section:CreateToggle('Auto Hunter X Hunter (Stage 6)', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().hxh6 = Value
+            hxh6()
+        end)
+
+
+        local Section = Tab:CreateSection('Fairy Tail')
+
+        local Toggle = Section:CreateToggle('Auto Fairy Tail (Stage 1)', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().fairy1 = Value
+            fairy1()
+        end)
+
+
+        local Toggle = Section:CreateToggle('Auto Fairy Tail (Stage 2)', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().fairy2 = Value
+            fairy2()
+        end)
+
+
+        local Toggle = Section:CreateToggle('Auto Fairy Tail (Stage 3)', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().fairy3 = Value
+            fairy3()
+        end)
+
+        local Toggle = Section:CreateToggle('Auto Fairy Tail (Stage 4)', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().fairy4 = Value
+            fairy4()
+        end)
+
+
+        local Toggle = Section:CreateToggle('Auto Fairy Tail (Stage 5)', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().fairy5 = Value
+            fairy5()
+        end)
+
+
+        local Toggle = Section:CreateToggle('Auto Fairy Tail (Stage 6)', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().fairy6 = Value
+            fairy6()
+        end)
+
+
+                local Section = Tab:CreateSection('Jujutsu Kaisen')
+
+        local Toggle = Section:CreateToggle('Auto Jujutsu Kaisen (Stage 1)', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().jjk1 = Value
+            jjk1()
+        end)
+
+
+        local Toggle = Section:CreateToggle('Auto Jujutsu Kaisen (Stage 2)', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().jjk2 = Value
+            jjk2()
+        end)
+
+
+        local Toggle = Section:CreateToggle('Auto Jujutsu Kaisen (Stage 3)', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().jjk3 = Value
+            jjk3()
+        end)
+
+        local Toggle = Section:CreateToggle('Auto Jujutsu Kaisen (Stage 4)', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().jjk4 = Value
+            jjk4()
+        end)
+
+
+        local Toggle = Section:CreateToggle('Auto Jujutsu Kaisen (Stage 5)', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().jjk5 = Value
+            jjk5()
+        end)
+
+
+        local Toggle = Section:CreateToggle('Auto Jujutsu Kaisen (Stage 6)', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().jjk6 = Value
+            jjk6()
+        end)
+
+        local Section = Tab:CreateSection('Black Clover')
+
+        local Toggle = Section:CreateToggle('Auto Black Clover (Stage 1)', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().clover1 = Value
+            clover1()
+        end)
+
+
+        local Toggle = Section:CreateToggle('Auto Black Clover (Stage 2)', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().clover2 = Value
+            clover2()
+        end)
+
+
+        local Toggle = Section:CreateToggle('Auto Black Clover (Stage 3)', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().clover3 = Value
+            clover3()
+        end)
+
+        local Toggle = Section:CreateToggle('Auto Black Clover (Stage 4)', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().clover4 = Value
+            clover4()
+        end)
+
+
+        local Toggle = Section:CreateToggle('Auto Black Clover (Stage 5)', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().clover5 = Value
+            clover5()
+        end)
+
+
+        local Toggle = Section:CreateToggle('Auto Black Clover (Stage 6)', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().clover6 = Value
+            clover6()
+        end)
+
+        local Section = Tab:CreateSection('Jojo')
+
+        local Toggle = Section:CreateToggle('Auto Jojo (Stage 1)', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().jojo1 = Value
+            jojo1()
+        end)
+
+
+        local Toggle = Section:CreateToggle('Auto Jojo (Stage 2)', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().jojo2 = Value
+            jojo2()
+        end)
+
+
+        local Toggle = Section:CreateToggle('Auto Jojo (Stage 3)', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().jojo3 = Value
+            jojo3()
+        end)
+
+        local Toggle = Section:CreateToggle('Auto Jojo (Stage 4)', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().jojo4 = Value
+            jojo4()
+        end)
+
+
+        local Toggle = Section:CreateToggle('Auto Jojo (Stage 5)', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().jojo5 = Value
+            jojo5()
+        end)
+
+
+        local Toggle = Section:CreateToggle('Auto Jojo (Stage 6)', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().jojo6 = Value
+            jojo6()
+        end)
+
+        local Section = Tab:CreateSection('One Punch Man')
+
+        local Toggle = Section:CreateToggle('Auto One Punch (Stage 1)', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().opm1 = Value
+            opm1()
+        end)
+
+
+        local Toggle = Section:CreateToggle('Auto One Punch (Stage 2)', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().opm2 = Value
+            opm2()
+        end)
+
+
+        local Toggle = Section:CreateToggle('Auto One Punch (Stage 3)', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().opm3 = Value
+            opm3()
+        end)
+
+        local Toggle = Section:CreateToggle('Auto One Punch (Stage 4)', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().opm4 = Value
+            opm4()
+        end)
+
+
+        local Toggle = Section:CreateToggle('Auto One Punch (Stage 5)', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().opm5 = Value
+            opm5()
+        end)
+
+
+        local Toggle = Section:CreateToggle('Auto One Punch (Stage 6)', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().opm6 = Value
+            opm6()
+        end)
+
+    
+        local Tab = Window:CreateTab('Shop', false, 'rbxassetid://3926305904', Vector2.new(484, 44), Vector2.new(36, 36))
+    
+        local Section = Tab:CreateSection('Auto Summon')
+    
+        local Toggle = Section:CreateToggle('Auto Summon (Only 10 Roll)', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().autoSummon = Value
+            autoSummon()
+        end)
+
+
+        local Toggle = Section:CreateToggle('Auto Summon (Only 1 Roll)', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().autoSummon1 = Value
+            autoSummon1()
+        end)
+
+
+        local Toggle = Section:CreateToggle('Auto Summon (Only Ticket Roll)', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().autosummonTicket = Value
+            autosummonTicket()
+        end)
+
+        local Section = Tab:CreateSection('Auto Buy Capsule')
+
+        local Toggle = Section:CreateToggle('Auto Buy Capsule (Only 1)', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().autobuycapsuleSummer1 = Value
+            autobuycapsuleSummer1()
+        end)
+    
+        local Toggle = Section:CreateToggle('Auto Buy Capsule (Only 10)', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().autobuycapsuleSummer10 = Value
+            autobuycapsuleSummer10()
+        end)
+
+        local Toggle = Section:CreateToggle('Auto Buy Capsule (Only 100)', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().autobuycapsuleSummer100 = Value
+            autobuycapsuleSummer100()
+        end)
+
+        local Section = Tab:CreateSection('Auto Open Capsule')
+
+        local Toggle = Section:CreateToggle('Auto Open Capsule (Only 1)', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().autoopencapsuleSummer1 = Value
+            autoopencapsuleSummer1()
+        end)
+    
+        local Toggle = Section:CreateToggle('Auto Open Capsule (Only 10)', false, Color3.fromRGB(0, 125, 255), 0.25, function(Value)
+            getgenv().autoopencapsuleSummer10 = Value
+            autoopencapsuleSummer10()
+        end)
+    
+        local LibraryFunctions = Window:CreateTab('UI Functions', false, 'rbxassetid://3926305904', Vector2.new(524, 44), Vector2.new(36, 36))
+    
+        local UIFunctions = LibraryFunctions:CreateSection('UI Functions')
+        
+        
+            local ToggleKeybind = UIFunctions:CreateKeybind('Close UI', 'Del', function()
+                Library:ToggleUI()
+            end)
+    
+        for i,v in pairs(getconnections(game.Players.LocalPlayer.Idled)) do
+            v:Disable()
+        end
+        end
